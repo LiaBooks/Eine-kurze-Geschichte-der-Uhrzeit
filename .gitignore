@@ -1,0 +1,8 @@
+# Dieses Repo enthält nur den Kurs (Demo). Alles andere bleibt lokal:
+# Teaching-Agent (specs/, .agents/, CLAUDE.md …), journal.md, materials/ (Quellen
+# des README), tools/, .mcp.json usw.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/templates/
